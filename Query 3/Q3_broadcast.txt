@@ -1,0 +1,30 @@
+Crime victims grouped by Descent in ZIP Codes with Top 3 Income
++--------------------+-------------+
+|      Victim Descent|Total Victims|
++--------------------+-------------+
+|               White|          347|
+|               Other|          110|
+|Hispanic/Latin/Me...|           55|
+|             Unknown|           32|
+|               Black|           18|
+|         Other Asian|           16|
++--------------------+-------------+
+
+Crime victims grouped by Descent in ZIP Codes with Bottom 3 Income
++--------------------+-------------+
+|      Victim Descent|Total Victims|
++--------------------+-------------+
+|Hispanic/Latin/Me...|         1550|
+|               Black|         1093|
+|               White|          705|
+|               Other|          400|
+|         Other Asian|          104|
+|             Unknown|           65|
+|              Korean|            9|
+|            Japanese|            3|
+|American Indian/A...|            3|
+|            Filipino|            2|
+|             Chinese|            2|
++--------------------+-------------+
+
+Elapsed time: 46.58298707008362 seconds
